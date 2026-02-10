@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi! My name Daria Sitnikova 
 
 <!--
 **mika1551/mika1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+My skills
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
