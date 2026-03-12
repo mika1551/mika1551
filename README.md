@@ -2,11 +2,6 @@
   <h1>👩‍💻 Daria Sitnikova</h1>
   <h3>Systems Programmer & Database Enthusiast</h3>
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-</div>
-
 ## 💡 About Me
 
 > Low-level programmer with a passion for understanding how computers really work. Experienced in working with mainframes and embedded systems.
