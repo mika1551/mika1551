@@ -1,4 +1,4 @@
-## 👋 Hi! My name is Daria Sitnikova
+## Hi! I'm Mika
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8F0&center=true&vCenter=true&width=435&lines=Systems+Programmer;Embedded+Systems+Enthusiast;Database+Specialist" alt="Typing SVG" />
