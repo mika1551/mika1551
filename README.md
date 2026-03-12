@@ -31,7 +31,6 @@
 
 ### Hardware & Low-Level
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-008080?style=for-the-badge&logo=microchip&logoColor=white)
 
 ## 🏆 Notable Experience
 - 💾 Worked with mainframe computers (ЭВМ)
