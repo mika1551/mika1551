@@ -31,15 +31,7 @@
 
 ### Hardware & Low-Level
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![ЭВМ](https://img.shields.io/badge/ЭВМ-000000?style=for-the-badge&logo=ibm&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-008080?style=for-the-badge&logo=microchip&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ## 🏆 Notable Experience
 - 💾 Worked with mainframe computers (ЭВМ)
@@ -48,4 +40,3 @@
 - 🐳 Containerization with Docker
 - 🎨 UI/UX design with Figma
 
-## 🚀 Currently Working With
