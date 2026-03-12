@@ -30,15 +30,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
 ## 🏆 Notable Experience
-- 💾 Worked with mainframe computers (ЭВМ)
+- 💾 Worked with mainframe computers (EVM)
 - 🔧 Embedded systems development
 - 📊 Database design and optimization
 
