@@ -5,10 +5,6 @@
 
 <a href="https://t.me/daryitne"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&amp;logo=telegram&amp;logoColor=white" /></a>
 <a href="mailto:dashoksit@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
-
-<img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=mika1551&amp;show_icons=true&amp;theme=tokyonight" />
-<img height="170" alt="Top languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika1551&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" />
-
 </div>
 
 ## 💡 About Me
